@@ -1,5 +1,4 @@
-# Postmates
-Jumpman23
+# Jumpman23
 
 Background
 Jumpman23 is an on-demand delivery platform connecting “Jumpmen” and customers purchasing a variety of goods. 
